@@ -36,7 +36,7 @@ GEM
     pcaprub (0.11.3)
     pg (0.16.0)
     rake (10.1.0)
-    redcarpet (3.0.0)
+    redcarpet (3.5.1)
     robots (0.10.1)
     rspec (2.14.1)
       rspec-core (~> 2.14.0)
