@@ -53,7 +53,7 @@ GEM
       simplecov-html (~> 0.5.3)
     simplecov-html (0.5.3)
     timecop (0.6.3)
-    tzinfo (0.3.37)
+    tzinfo (0.3.61)
     yard (0.8.7)
 
 PLATFORMS
